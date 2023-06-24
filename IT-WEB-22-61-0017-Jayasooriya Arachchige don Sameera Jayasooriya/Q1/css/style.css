@@ -1,0 +1,64 @@
+body{
+    font-family: 'Outfit', sans-serif;
+}
+
+.logo{
+    font-size: 40px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-header{
+    font-size: 45px;
+    font-weight: 1000;
+    font-family: 'Poppins', sans-serif;
+}
+
+.card-1{
+    background-color: rgb(97, 100, 243);
+    color: white;
+}
+
+.card-2{
+    background-color: rgba(211, 230, 231, 0.685);
+}
+
+.card-3{
+    background-color: rgb(240, 224, 192);
+}
+
+.card-tite{
+    font-weight: 600;
+}
+
+.Form-text-box{
+    border-radius: 30px; 
+    color: rgba(54, 54, 54, 0.267);
+    width: 250px;
+}
+
+.sub-header{
+    font-size: 34px;
+    font-weight: 1000;
+    font-family: 'Poppins', sans-serif;
+}
+
+.site-card-fonts{
+    font-size: 12px;
+}
+
+.trust-and-feel{
+    padding-top: 52px; 
+    font-size: 85px; 
+    font-family: 'Poppins', sans-serif; 
+    color:rgb(87, 87, 250);
+}
+
+.trust-img1{
+    width: 200px;
+}
+
+.trust-img2{
+    width: 300px; 
+    padding-top: 70px;
+}

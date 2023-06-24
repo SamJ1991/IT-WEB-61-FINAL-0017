@@ -1,0 +1,8 @@
+SELECT * FROM Studenttb
+
+SELECT Student_ID, Name, City FROM Studenttb WHERE City = 'Kandy'
+
+UPDATE Studenttb SET City = 'Galle' WHERE Student_ID = 4
+
+Select S.Student_ID, S.Name, S.City, C.Name As Course 
+From Studenttb AS S INNER JOIN Courcetb AS C ON S.Cource_ID = C.Cource_ID

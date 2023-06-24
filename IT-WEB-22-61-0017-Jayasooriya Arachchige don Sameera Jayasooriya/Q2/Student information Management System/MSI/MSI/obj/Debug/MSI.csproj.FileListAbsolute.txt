@@ -1,0 +1,21 @@
+E:\VS\MSIJaya\MSI\MSI\bin\roslyn\csc.exe
+E:\VS\MSIJaya\MSI\MSI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS\MSIJaya\MSI\MSI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS\MSIJaya\MSI\MSI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS\MSIJaya\MSI\MSI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS\MSIJaya\MSI\MSI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS\MSIJaya\MSI\MSI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS\MSIJaya\MSI\MSI\bin\roslyn\System.Collections.Immutable.dll
+E:\VS\MSIJaya\MSI\MSI\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS\MSIJaya\MSI\MSI\bin\roslyn\vbc.exe
+E:\VS\MSIJaya\MSI\MSI\bin\roslyn\VBCSCompiler.exe
+E:\VS\MSIJaya\MSI\MSI\bin\roslyn\VBCSCompiler.exe.config
+E:\VS\MSIJaya\MSI\MSI\bin\MSI.dll.config
+E:\VS\MSIJaya\MSI\MSI\bin\MSI.dll
+E:\VS\MSIJaya\MSI\MSI\bin\MSI.pdb
+E:\VS\MSIJaya\MSI\MSI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS\MSIJaya\MSI\MSI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS\MSIJaya\MSI\MSI\obj\Debug\MSI.dll
+E:\VS\MSIJaya\MSI\MSI\obj\Debug\MSI.pdb
+D:\Users\MY\Sllit Course\Slit Course\Finel Project\IT-WEB-22-61-0017-Jayasooriya Arachchige don Sameera Jayasooriya\Q2\Student information Management System\MSI\MSI\obj\Debug\MSI.dll
+D:\Users\MY\Sllit Course\Slit Course\Finel Project\IT-WEB-22-61-0017-Jayasooriya Arachchige don Sameera Jayasooriya\Q2\Student information Management System\MSI\MSI\obj\Debug\MSI.pdb
